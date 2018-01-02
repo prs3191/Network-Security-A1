@@ -1,6 +1,6 @@
 /*
 to compile:
-	 g++ u1076652_HW2_progB.cpp -o hw2_progB_obj
+	 g++ progB.cpp -o hw2_progB_obj
 to execute:
  	./hw2_progB_obj
 */
