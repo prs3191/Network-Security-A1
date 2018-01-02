@@ -1,0 +1,165 @@
+﻿
+Enter plain text:hello ab
+
+Enter key:_09*&^%$
+
+-------------ENCRYPTION------------------------
+
+Round 1 output:ΘdIí zs
+
+Round 2 output:blt»*y¥▓
+
+Round 3 output:,£o¡%?┘²
+
+Round 4 output:°εƒ-╣@╪!
+
+Round 5 output:ô%~≈{~Å
+
+Round 6 output:╠Zkzα∞ñ∩
+
+Round 7 output: ÉƒÖH'å
+
+Round 8 output:⌠─u9
+
+Round 9 output:C│<0╙CÅ
+
+Round 10 output:╘»·à╧@i
+
+Round 11 output:\x└Q8Rg
+
+Round 12 output:°x▌ò¼1╟
+
+Round 13 output:ì
+
+Round 14 output:o╣wφâ▐à┐
+
+Round 15 output:Ω∙-v
+
+Round 16 output:^σ╓'╙ƒ║╬
+
+Cipher text is:^σ╓'╙ƒ║╬
+
+-------------DECRYPTION------------------------
+
+Round 1 output:Ω∙-v
+
+Round 2 output:o╣wφâ▐à┐
+
+Round 3 output:ì
+
+Round 4 output:°x▌ò¼1╟
+
+Round 5 output:\x└Q8Rg
+
+Round 6 output:╘»·à╧@i
+
+Round 7 output:C│<0╙CÅ
+
+Round 8 output:⌠─u9
+
+Round 9 output: ÉƒÖH'å
+
+Round 10 output:╠Zkzα∞ñ∩
+
+Round 11 output:ô%~≈{~Å
+
+Round 12 output:°εƒ-╣@╪!
+
+Round 13 output:,£o¡%?┘²
+
+Round 14 output:blt»*y¥▓
+
+Round 15 output:ΘdIí zs
+
+Round 16 output:7UUFI~DF
+
+Plain text is:hello ab
+
+--------------------------------
+Process exited after 26.92 seconds with return value 0
+Press any key to continue . . .
+
+/***********************OUTPUT WITH DIFFERENT KEY********************************************/
+
+Enter plain text:hello ab
+
+Enter key:Key IS^
+
+-------------ENCRYPTION------------------------
+
+Round 1 output:j@÷CL╟╙!
+
+Round 2 output:░kΘ;%┘
+
+Round 3 output:≡~╝6¼á5=
+
+Round 4 output:░╒π║{µ±╪
+
+Round 5 output:⌡µ@ª#U;}
+
+Round 6 output:zoV▀|╣
+
+Round 7 output:π8q╙╚╥W
+
+Round 8 output:#`Oi-┤╨
+
+Round 9 output:!╤«²â╔
+
+Round 10 output:╠ó(w╟
+
+Round 11 output:┐C[º¼┌
+
+Round 12 output:V▓]■≥º╦
+
+Round 13 output:ƒ⌠q╓ûµW
+
+Round 14 output:tn╦ëεvY
+
+Round 15 output:K▀º£εl½
+
+Round 16 output:εë├ΩÑpÖ∩
+
+Cipher text is:εë├ΩÑpÖ∩
+
+-------------DECRYPTION------------------------
+
+Round 1 output:K▀º£εl½
+
+Round 2 output:tn╦ëεvY
+
+Round 3 output:ƒ⌠q╓ûµW
+
+Round 4 output:V▓]■≥º╦
+
+Round 5 output:┐C[º¼┌
+
+Round 6 output:╠ó(w╟
+
+Round 7 output:!╤«²â╔
+
+Round 8 output:#`Oi-┤╨
+
+Round 9 output:π8q╙╚╥W
+
+Round 10 output:zoV▀|╣
+
+Round 11 output:⌡µ@ª#U;}
+
+Round 12 output:░╒π║{µ±╪
+
+Round 13 output:≡~╝6¼á5=
+
+Round 14 output:░kΘ;%┘
+
+Round 15 output:j@÷CL╟╙!
+
+Round 16 output:#
+
+Plain text is:hello ab
+
+--------------------------------
+Process exited after 13.35 seconds with return value 0
+Press any key to continue . . .
+
+
+

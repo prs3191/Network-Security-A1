@@ -1,0 +1,44 @@
+﻿
+Enter plain text:This class is easier than I thought.
+
+Enter key:zxcvb
+
+-------------ENCRYPTION------------------------
+Input:
+T h i s   c l a s s   i s   e a s i e r   t h a n   I   t h o u g h t .
+Keystream:
+* ù v X  e Σ !   ¼ │ ' ╛ N 7 4  ,  a p ⌡  ⁿ W ≡ ∩ : ê │  ╠          < ░ 
+
+Cipher text is:~ +.ê@s▀ôN═nRUcEtPüx¥9╨ªⁿ█d╣nT─0
+
+-------------DECRYPTION------------------------
+
+Plain text is:
+This class is easier than I thought.
+
+--------------------------------
+Process exited after 6.382 seconds with return value 0
+Press any key to continue . . .
+
+/**************************************OUTPUT WITH DIFFERENT KEY*****************************************************/
+
+Enter plain text:This class is easier than I thought.
+
+Enter key:!@#$%^&*
+
+-------------ENCRYPTION------------------------
+Input:
+T h i s   c l a s s   i s   e a s i e r   t h a n   I   t h o u g h t .
+Keystream:
+q Γ δ X ê ╞  " ▄ + ╖ Γ R ▄ í ¿ Y É Ñ í ┌ √ L ¿ : U  ö ┘ ░ d   ╫ Z ^
+
+Cipher text is:%èé+¿ÑrC»Xùï!ⁿ─╔*∙└╙·Å$╔TuZ┤¡╪rf┐.p
+
+-------------DECRYPTION------------------------
+
+Plain text is:
+This class is easier than I thought.
+
+--------------------------------
+Process exited after 22.96 seconds with return value 0
+Press any key to continue . . .
