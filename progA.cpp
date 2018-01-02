@@ -1,5 +1,5 @@
 /*to compile:
-	 g++ u1076652_HW2_progA.cpp -o hw2_progA_obj
+	 g++ progA.cpp -o hw2_progA_obj
  to execute:
  	./hw2_progA_obj
  */
